@@ -1,0 +1,28 @@
+header {
+    position: fixed;
+    width: 99%;
+    text-align: center;
+}
+
+footer{
+    position: fixed;
+}
+
+header nav{
+    margin: 2px;
+}
+
+
+header nav ul{
+    border: 1px solid black;
+}
+
+header li{
+    display: inline-block;
+    width: 19%;
+}
+
+footer li{
+    display: inline-block;
+    width: 19%;
+}
